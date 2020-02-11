@@ -1,0 +1,15 @@
+svg {
+  padding-bottom:25px;
+  padding-left:100px;
+  padding-top:20px;
+}
+
+g path,
+g line {
+  fill: #C0C0C0;
+}
+
+text {
+  fill:#696969;
+  font-size:20px;
+}
